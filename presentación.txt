@@ -1,5 +1,5 @@
 Mi nombre es Marco Alarcón, soy Analista Técnico en BBVA Argentina hace unos 5 años. Al principio hacía algo con Java pero con el tiempo mi trabajo fue siendo más de soporte para instalar aplicaciones de proveedores.
-Me inscribí para aprender un segundo lenguaje, tenía ganas de Python o Go pero PHP también es interesante. Todo aprendizaje es bienvenido.
+Me inscribí para aprender un segundo lenguaje, tenía ganas de Python o Go pero PHP también es interesante. ¡Todo aprendizaje es bienvenido!
 
-Saludos.
+Saludos!
 
